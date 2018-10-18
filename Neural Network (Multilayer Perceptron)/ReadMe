@@ -1,0 +1,22 @@
+1.roslaunch nao_apps tactile.launch
+2.roslaunch nao_bringup nao_full_py.launch
+3.rosrun bilhr central_node
+4.rosservice call /body_stiffness/enable
+
+# Set the initial position of NAO robot, press middle button 
+# Start tracking the red blob, press back button 
+
+
+
+
+P.S
+# "Normalize_Data" is in the Hands file 
+# all trainning data is TrainingData_raw;
+
+# If you want to save the red blob for the network, press front button
+# Go to the "neuro_network.h" to choose the XOR data or the Hands data (red blob)
+# XOR and Hands files should be put under the workspace 
+1 and 0 ans: 0.99361
+0 and 1 ans: 0.993569
+1 and 1 ans: 0.00626914
+0 and 0 ans: 0.00620516
