@@ -5,3 +5,7 @@ The NAO robot successfully complete three tasks.
 1. Tracking color blob by neural network https://youtu.be/5xhpEhaldfA.
 2. Tracking color blob by CMAC network https://youtu.be/Atshz2vyHL4
 3. Avoid the goalkeeper and shot at the goal by Q-learning video is https://youtu.be/Sw6Z3oO7lWQ
+
+![alt text](https://github.com/AlexWUrobot/Biologically-Inspired-Learning-for-Humanoid-Robots-NN-CMAC-QLearning/blob/master/image/shoot0.png)
+![alt text](https://github.com/AlexWUrobot/Biologically-Inspired-Learning-for-Humanoid-Robots-NN-CMAC-QLearning/blob/master/image/shoot1.png)
+![alt text](https://github.com/AlexWUrobot/Biologically-Inspired-Learning-for-Humanoid-Robots-NN-CMAC-QLearning/blob/master/image/shoot2.png)
